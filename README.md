@@ -41,6 +41,6 @@ A imagem customizada será gerada na pasta do repositório com o nome `nome_da_i
 
 1. A partir de um script obter as coordenadas de onde ficam esses itens na imagem e não permitir que customizações sejam feitas numa região dessas coordenadas.
 
-2. Implementar uma função que receba como parâmetro: imagem a ser customizada, fonte a ser usada e o nome a ser plotado, e retorne o tamanho de fonte ideal. Sendo a implementação da seguinte forma: obter o tamanho do texto com a fonte e com tamanho de fonte 1 e assim ir incrementando o tamanho de fonte até que se atinga um tamanho de texto necessário.O tamanho de texto necessário é a fração da imagem que terá o nome plotado.
+2. Implementar uma função que receba como parâmetro: imagem a ser customizada, fonte a ser usada e o nome a ser plotado, e retorne o tamanho de fonte ideal. Sendo a implementação da seguinte forma: obter o tamanho do texto com a fonte e com tamanho de fonte 1 e assim ir incrementando o tamanho de fonte até que se atinga um tamanho de texto necessário.O tamanho de texto necessário é a fração da imagem que terá o nome plotado. **Feature Implementada** 
 
 3. Obter dados de imagens geradas pelo script e suas correspondentes capinhas que passaram pelo processo de fabricação. Utilizar esses dados como treinamento de um modelo de rede neural para que ele receba uma imagem gerada pelo script e exiba como saída uma aproximação da imagem real que será gerada pela fábrica. 
