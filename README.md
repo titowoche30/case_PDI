@@ -2,12 +2,12 @@
 
 Script que recebe e customiza a imagem de um produto.
 
-=======
-### Pré-requisitos
+
+## Pré-requisitos
 
 Bibliotecas [Pillow](https://pillow.readthedocs.io/en/stable/ "Pillow docs") e [NumPy](https://numpy.org/ "Numpy Homepage").
 
-### Como usar
+## Como usar
 
 1. Baixe esse repositório
 2. Abra um terminal na pasta do repositório
@@ -23,7 +23,7 @@ Se quiser adicionar mais imagens ou fontes, basta adicioná-las nessas pastas.
 
 A imagem customizada será gerada na pasta do repositório com o nome `nome_da_imagem_texto`.
 
-### Exemplos
+## Exemplos
 
 * Exemplo 1: `python3 gocase.py flamingos mighty-river Tito 180,230`
 
@@ -37,7 +37,7 @@ A imagem customizada será gerada na pasta do repositório com o nome `nome_da_i
 
 ![alt text](Exemplos/mandala_Gocase.jpg "Exemplo 3")
 
-### Questões Adicionais
+## Questões Adicionais
 
 1. A partir de um script obter as coordenadas de onde ficam esses itens na imagem e não permitir que customizações sejam feitas numa região dessas coordenadas.
 
