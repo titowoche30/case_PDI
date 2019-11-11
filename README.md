@@ -39,7 +39,7 @@ A imagem customizada será gerada na pasta do repositório com o nome `nome_da_i
 
 ## Questões Adicionais
 
-1. A partir de um script obter as coordenadas de onde ficam esses itens na imagem e não permitir que customizações sejam feitas numa região dessas coordenadas.
+1. A partir de um script de reconhecimento de objetos, obter as coordenadas de onde ficam esses itens na imagem e não permitir que customizações sejam feitas numa região dessas coordenadas.
 
 2. Implementar uma função que receba como parâmetro: imagem a ser customizada, fonte a ser usada e o nome a ser plotado, e retorne o tamanho de fonte ideal. Sendo a implementação da seguinte forma: obter o tamanho do texto com a fonte e com tamanho de fonte 1 e assim ir incrementando o tamanho de fonte até que se atinga um tamanho de texto necessário.O tamanho de texto necessário é a fração da imagem que terá o nome plotado. **Feature Implementada** 
 
