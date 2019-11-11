@@ -2,7 +2,6 @@ import sys
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 
-
 def weighted_mean_color(colors):
     #Lista com as cores.
     rgbs = [colors[i][1] for i in range(len(colors))]
@@ -78,11 +77,10 @@ colors = croped.getcolors(croped.size[0]*croped.size[1])
 
 ##-------Faz uma média ponderada com as cores da parte da imagem onde o texto será escrito-------##
 color = weighted_mean_color(colors)
-#print('most=',color)
 
 ##-------Gera a cor para o texto pegando a cor complementar-------##  
 text_color = [255-color[0] , 255-color[1],255-color[2]]
-#print('text complementar=',text_Color)
+
 
 ##-------Escreve o texto na imagem-------##
 draw.text(coordinates,name, font=fnt, fill=tuple(text_color))
