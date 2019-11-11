@@ -6,10 +6,6 @@ Script que recebe e customiza a imagem de um produto.
 
 Bibliotecas [Pillow](https://pillow.readthedocs.io/en/stable/ "Pillow docs") e [NumPy](https://numpy.org/ "Numpy Homepage")
 
-Pasta **mockups** com as imagens .jpg a serem customizadas.
-
-Pasta **fonts** com as fontes .ttf a serem utilizadas.
-
 ### Como usar
 
 1. Baixe esse repositório
@@ -20,5 +16,5 @@ A imagem customizada será gerada na pasta do repositório com o nome `nome_da_i
 
 ### Exemplos
 
-⋅⋅* Exemplo: `python3 gocase.py flamingos mighty-river Tito 180,230`
+* Exemplo: `python3 gocase.py flamingos mighty-river Tito 180,230`
 
