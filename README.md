@@ -5,7 +5,9 @@ Script que recebe e customiza a imagem de um produto.
 ### Pré-requisitos
 
 Bibliotecas [Pillow](https://pillow.readthedocs.io/en/stable/ "Pillow docs") e [NumPy](https://numpy.org/ "Numpy Homepage")
+
 Pasta **mockups** com as imagens .jpg a serem customizadas.
+
 Pasta **fonts** com as fontes .ttf a serem utilizadas.
 
 ### Como usar
