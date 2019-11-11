@@ -2,7 +2,7 @@
 
 Script que recebe e customiza a imagem de um produto.
 
------------------------
+------
 ### Pré-requisitos
 
 Bibliotecas [Pillow](https://pillow.readthedocs.io/en/stable/ "Pillow docs") e [NumPy](https://numpy.org/ "Numpy Homepage").
