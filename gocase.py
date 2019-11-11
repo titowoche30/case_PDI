@@ -37,8 +37,8 @@ def get_font_size(img,font_name,name):
     return fontsize
     
 
-if len(sys.argv) < 4:
-    print('4 argumentos sao necessarios, {} foram fornecidos.'.format(len(sys.argv)))
+if len(sys.argv[1:]) < 4:
+    print('4 argumentos sao necessarios, {} foram fornecidos.'.format(len(sys.argv[1:])))
     sys.exit()
 
 
