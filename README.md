@@ -12,9 +12,14 @@ Bibliotecas [Pillow](https://pillow.readthedocs.io/en/stable/ "Pillow docs") e [
 2. Abra um terminal na pasta do repositório
 3. Digite no terminal: `python3 gocase.py nome_da_imagem nome_da_fonte texto coordenadas` e aperte enter
 
-A imagem customizada será gerada na pasta do repositório com o nome `nome_da_imagem_texto.jpg`
+A ordem dos parâmetros é essencial.
+A imagem customizada será gerada na pasta do repositório com o nome `nome_da_imagem_texto`
 
 ### Exemplos
 
 * Exemplo: `python3 gocase.py flamingos mighty-river Tito 180,230`
+
+* Exemplo: `python3 gocase.py night-tones be-true-to-your-school Claudemir Woche 170,230` 
+
+* Exemplo: `python3 gocase.py mandala superclarendon Gocase 170,255`
 
