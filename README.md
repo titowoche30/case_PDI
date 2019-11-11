@@ -43,4 +43,4 @@ A imagem customizada será gerada na pasta do repositório com o nome `nome_da_i
 
 2. Feature já implementada.
 
-3. 
+3. Obter dados de imagens geradas pelo script e suas correspondentes capinhas que passaram pelo processo da fábrica. Utilizar esses dados como treinamento de um modelo de rede neural para que ele receba uma imagem gerada pelo script e exiba como saída uma aproximação da imagem real que será gerada pela fábrica. 
