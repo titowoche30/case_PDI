@@ -81,9 +81,9 @@ color = weighted_mean_color(colors)
 ##-------Gera a cor para o texto pegando a cor complementar-------##  
 text_color = [255-color[0] , 255-color[1],255-color[2]]
 
-
 ##-------Escreve o texto na imagem-------##
 draw.text(coordinates,name, font=fnt, fill=tuple(text_color))
+
 ##-------Salva a imagem com o texto escrito-------##
 img.load()
 img.save(image + '_' + name + '.jpg')
