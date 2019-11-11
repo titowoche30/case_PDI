@@ -29,7 +29,7 @@ A imagem customizada será gerada na pasta do repositório com o nome `nome_da_i
 
 ![alt text](Exemplos/flamingos_Tito.jpg "Exemplo 1")
 
-* Exemplo 2: `python3 gocase.py night-tones be-true-to-your-school Claudemir Woche 170,230` 
+* Exemplo 2: `python3 gocase.py night-tones be-true-to-your-school 'Claudemir Woche' 170,230` 
 
 ![alt text](Exemplos/night-tones_Claudemir_Woche.jpg "Exemplo 2")
 
