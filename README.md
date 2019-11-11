@@ -27,6 +27,6 @@ A imagem customizada será gerada na pasta do repositório com o nome `nome_da_i
 
 * Exemplo 3: `python3 gocase.py mandala superclarendon Gocase 170,255`
 
-![alt text](Exemplos/night-tones_Claudemir Woche.jpg "Exemplo 3")
+![alt text](Exemplos/night-tones_Claudemir_Woche.jpg "Exemplo 3")
 
 
